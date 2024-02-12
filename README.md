@@ -54,4 +54,4 @@ This command decodes the Base64-encoded executable and runs it with the provided
 
 ## Note:
 
-If the Base64 encoded content is not present in the script, it should be manually added to the designated location within the script (line 42).
+The Base64 encoded content is not present in the script, it should be manually added to the designated location within the script (line 42).
