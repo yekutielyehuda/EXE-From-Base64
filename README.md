@@ -15,11 +15,6 @@ The `exe-from-base64.ps1` PowerShell script is an invaluable asset for penetrati
 ## Usage:
 
 ```
-vbnet
-
-```
-
-```vbnet
 Usage: ./exe-from-base64.ps1 [-h] [-r] [-exeFlags <flags>]
 
 Options:
@@ -32,11 +27,6 @@ Options:
 ## Example:
 
 ```
-bash
-
-```
-
-```bash
 ./exe-from-base64.ps1 -r -exeFlags "smb -id user -p password"
 
 ```
